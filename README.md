@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?williamladrera=williamladrera&label=MGA+CHISMOSA)
 <div align="center">
   <img src="https://github.com/williamladrera/williamladrera/assets/162937992/288a7201-55fd-4040-8fff-6443e543afa4" style="border-radius: 50%;" />
 </div>
