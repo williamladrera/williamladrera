@@ -1,4 +1,7 @@
-![](https://komarev.com/ghpvc/?williamladrera=williamladrera&label=MGA+CHISMOSA)
+<a href="https://github.com/williamladrera/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=williamladrera&style=for-the-badge">
+</a>
+
 <div align="center">
   <img src="https://github.com/williamladrera/williamladrera/assets/162937992/288a7201-55fd-4040-8fff-6443e543afa4" style="border-radius: 50%;" />
 </div>
