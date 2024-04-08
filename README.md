@@ -6,7 +6,7 @@
   <img src="https://github.com/williamladrera/williamladrera/assets/162937992/288a7201-55fd-4040-8fff-6443e543afa4" style="border-radius: 50%;" />
 </div>
 
-<h1 align="center">Got the mall goin</h1>
+<h1 align="center">Got them all goin</h1>
 
 <p align="left">My name is William I am currently a 2nd year BSIT student!</p>
 
